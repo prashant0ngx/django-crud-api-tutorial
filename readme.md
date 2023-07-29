@@ -9,9 +9,9 @@
 
 ## Installation
 ### Step 1: Install Python and Django
-####  `python ---version `
+`python ---version `
  
-#### `django-admin --version`
+`django-admin --version`
 
 ### 1.1 Python Installation:
 <b>Windows : </b> https://www.python.org/downloads/windows/
@@ -26,9 +26,11 @@ and type in terminal `  sudo apt-get install python3.8 `
 
 ### 1.2  Django Installation:
 
-#### Windows cmd : ` py -m pip install Django `
+#### Windows cmd : 
+` py -m pip install Django `
 
-#### Unix/MacOS Terminal : ` python -m pip install Django `
+#### Unix/MacOS Terminal : 
+` python -m pip install Django `
 
 
 ### Step 2 : Setup Vertual Environment and Create django project:
@@ -36,9 +38,11 @@ and type in terminal `  sudo apt-get install python3.8 `
 ### 2.1 Setup Vertual Environment:
 It is suggested to have a dedicated virtual environment for each Django project, and one way to manage a virtual environment is venv, which is included in Python.
 
-#### Windows cmd : ` py -m venv envname `
+#### Windows cmd : 
+` py -m venv envname `
 
-#### Unix/MacOS Terminal :  ` python -m venv envname `
+#### Unix/MacOS Terminal : 
+` python -m venv envname `
 
 Then you have to activate the environment, by typing this command:
 
