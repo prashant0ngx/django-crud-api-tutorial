@@ -1,4 +1,4 @@
-#   SIMPLE CRUD API WITH DJANGO REST FRAMEWORK
+# SIMPLE CRUD API WITH DJANGO REST FRAMEWORK with JWT
 ## Django REST framework is a powerful and flexible toolkit for building Web APIs.
 
 ## Requirements
@@ -6,6 +6,9 @@
 - Python 3.6
 - Django 3.1
 - Django REST Framework
+- Djangorestframework-simplejwt
+  
+
 APIS:
 
 ## API Documentation : https://documenter.getpostman.com/view/27498901/2s9XxtyFQy
