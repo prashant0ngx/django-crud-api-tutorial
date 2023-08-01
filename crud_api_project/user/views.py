@@ -65,7 +65,6 @@ def register(request):
             
 
 @api_view(['POST'])
-@permission_classes([IsAuthenticated,])
 @authentication_classes([TokenAuthentication, ])
 def create_user(request):
     try:
